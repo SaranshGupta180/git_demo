@@ -1,2 +1,3 @@
 file2 from b1 and now i am editing file2
 now i am goin to merge b1 and main
+new line added before fetch
